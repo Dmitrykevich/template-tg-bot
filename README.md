@@ -1,6 +1,6 @@
 ## Template project for development telegram bots
 ### Содержание:
-* tg_bot - корневая папка бота
+* tgbot - корневая папка бота
 * filters - условия, по которым сообщения попадают в обработчики
 * handlers - обработчики апдейтов
 * keyboards - клавиатуры/кнопки
